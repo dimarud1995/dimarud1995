@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dimarud1995&show_icons=true&theme=transparent)
 -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimarud1995&layout=compact&langs_count=12&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimarud1995&layout=compact&langs_count=12&count_private=true&hide_progress=true)
